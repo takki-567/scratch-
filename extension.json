@@ -1,0 +1,16 @@
+{
+    "id": "my_custom_extension",
+    "name": "My Custom Extension",
+    "description": "This is a custom extension for Scratch",
+    "url": "https://myextension.com",
+    "blockIconURI": "https://example.com/icon.png",
+    "blocks": [
+      {
+        "opcode": "my_custom_block",
+        "blockType": "command",
+        "text": "Say hello",
+        "arguments": []
+      }
+    ]
+  }
+  
